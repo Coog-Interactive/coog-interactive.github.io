@@ -63,4 +63,10 @@
     .logos a img {
         height: 5vh;
     }
+
+    @media (width <= 800px) {
+        .desktop-only {
+            display: none;
+        }
+    }
 </style>

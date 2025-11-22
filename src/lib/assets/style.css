@@ -11,23 +11,6 @@ body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-nav {
-    display: flex;
-    justify-content: center;
-    background-color: #C8102E;
-    color: white;
-}
-nav a {
-    font-size: larger;
-    font-weight: bold;
-    padding: 20px 20px;
-    cursor: pointer;
-}
-nav a:hover {
-    background-color: white;
-    color: var(--cougar-red)
-}
-
 main {
     color: light-dark(var(--lightmode-color), var(--darkmode-color));
 }
@@ -67,35 +50,9 @@ button:hover {
     font-size: larger;
 }
 
-footer {
-    background-color: var(--cougar-red);
-    color: white;
-    display: flex;
-    padding: 30px;
-    margin-top: 50px; /* Give it some spacing from the main content */
-}
-footer section a {
-    color: white;
-    margin-top: 15px;
-}
-
 /* Mobile Layout */
 @media (width <= 800px) {
     .desktop-only {
-        display: none;
-    }
-
-    nav {
-        flex-flow: column;
-        align-items: stretch;
-        height: auto;
-        margin-bottom: 30px;
-    }
-    nav a {
-        text-align: center;
-        font-size: x-large;
-    }
-    nav .expand {
         display: none;
     }
 
@@ -128,17 +85,6 @@ footer section a {
     .row img {
         max-width: 100%;
         height: auto;
-    }
-
-    footer {
-        display: flex;
-        flex-flow: row;
-        justify-content: space-evenly;
-    }
-    footer section {
-        display: flex;
-        flex-flow: column;
-        text-align: center;
     }
 }
 
@@ -204,18 +150,6 @@ footer section a {
 
     .right-image {
         margin-left: 50px;
-    }
-    footer {
-        flex-flow: row;
-        justify-content: center;
-
-        height: 300px;
-    }
-    footer section {
-        display: flex;
-        justify-content: start;
-
-        width: 100px;
     }
 
     /* Makes it to where the button doesn't stretch across the entire screen when centered on Desktop. */
