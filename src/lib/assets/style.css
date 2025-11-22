@@ -11,46 +11,6 @@ body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 30px;
-
-    min-height: 30vh;
-
-    background-image: linear-gradient(to bottom, light-dark(rgba(255, 255, 255, 0.75), rgba(0, 0, 0, 0.75)), light-dark(rgba(255, 255, 255, 0.75), rgba(0, 0, 0, 0.75))), url("$lib/assets/financial-frontier.png");
-    background-size: cover;
-    background-position: center;
-}
-header img {
-    height: 150px;
-}
-
-.social-media-banner {
-    display: flex;
-    flex-flow: column;
-    margin: 10px;
-}
-.social-media-banner h2 {
-    color: var(--cougar-red);
-    font-size: 4vh;
-    margin-top: 8px;
-    margin-bottom: 5px;
-}
-
-.logos {
-    display: flex;
-    flex-flow: row;
-    align-items: center;
-}
-.logos a {
-    margin-right: 15px;
-}
-.logos a img {
-    height: 5vh;
-}
-
 nav {
     display: flex;
     justify-content: center;
