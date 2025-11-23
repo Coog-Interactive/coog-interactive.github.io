@@ -34,8 +34,8 @@
 <nav>
     <a class="mobile-only" id="menu-button" onclick={ toggleNavbar }>≡ Menu</a> <!-- FIXME -->
     {#if navbarExpanded || (browser && window.innerWidth > 800)}
-        <a class="expand">Home</a> <!-- TODO -->
-        <a class="expand">Club</a> <!-- TODO -->
+        <a class="expand" href="/">Home</a> <!-- TODO -->
+        <a class="expand" href="/club">Club</a> <!-- TODO -->
         <a class="expand">Games</a> <!-- TODO -->
         <a class="expand">Studio</a> <!-- TODO -->
         <a class="expand">Join</a> <!-- TODO -->
@@ -50,6 +50,8 @@
         color: white;
     }
     nav a {
+        color: white;
+        text-decoration: none; /* Removes underline under element. */
         font-size: larger;
         font-weight: bold;
         padding: 20px 20px;

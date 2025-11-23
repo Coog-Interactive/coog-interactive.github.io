@@ -13,7 +13,7 @@
 <Navbar />
 
 <main>
-	{@render children()}
+    {@render children()}
 </main>
 
 <Footer />

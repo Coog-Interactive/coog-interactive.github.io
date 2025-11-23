@@ -31,7 +31,6 @@
         <button>JOIN THE DISCORD</button>
     </section>
 </div>
-
 <div class="reverse row">
     <div class="picture-collumn">
         <img src={ mirrorsEdge2 } alt="Mirror's Edge by EA DICE" class="right-image"/>
@@ -44,7 +43,6 @@
         <button>LEARN MORE</button>
     </section>
 </div>
-
 <div class="row">
     <div class="picture-collumn">
         <img src={ guiltyGear } alt="Guilty Gear -STRIVE- by ArcSystemWorks" class="left-image"/>
@@ -57,7 +55,6 @@
         <button>BECOME AN OFFICER</button>
     </section>
 </div>
-
 <div class="reverse row">
     <div class="picture-collumn">
         <img src={ profitPlayground } alt="TT Profit Playground by unknown" class="right-image" style="object-position: 10%;"/>
@@ -70,9 +67,25 @@
         <button onclick={mail}>CONTACT US</button>
     </section>
 </div>
-
 <div style="text-align: center;">
     <h1>MEMBER SHOWCASE</h1>
     <p>Video coming soon...</p>
     <button class="center-button">CHECK OUT THE GAMES</button>
 </div>
+
+<style>
+    section {
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+
+        height: 100%;
+        width: 45vw;
+        padding-left: 5vw;
+        padding-right: 5vw;
+    }
+    section h1 {
+        margin-top: 0px;
+        margin-bottom: 5px;
+    }
+</style>

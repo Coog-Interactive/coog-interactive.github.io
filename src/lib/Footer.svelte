@@ -72,4 +72,15 @@
             width: 100px;
         }
     }
+
+    section {
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+
+        height: 100%;
+        width: 45vw;
+        padding-left: 5vw;
+        padding-right: 5vw;
+    }
 </style>
