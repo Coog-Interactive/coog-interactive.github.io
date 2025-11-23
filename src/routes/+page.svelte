@@ -13,7 +13,7 @@
     <div class="picture-collumn">
         <img src={ mirrorsEdge1 } alt="Mirror's Edge by EA DICE" class="left-image"/>
     </div>
-    <section>
+    <section class="info-section">
         <h1>GAMES GAMES GAMES.</h1>
         <p>
             Coog Interactive provides a space for students who want to join the game development community where they can learn about the field through workshops, events and collaborating with peers. All fields of game development are welcome; regardless of skill level!
@@ -35,7 +35,7 @@
     <div class="picture-collumn">
         <img src={ mirrorsEdge2 } alt="Mirror's Edge by EA DICE" class="right-image"/>
     </div>
-    <section>
+    <section class="info-section">
         <h1>BRING YOUR GAME TO LIFE</h1>
         <p>
             We operate a student-led game studio branch within the organization, producing official, collaborative games credited to contributors, with proceeds used to further the progress of game development programs at UH and the opportunities it provides to students interested in game development.
@@ -47,7 +47,7 @@
     <div class="picture-collumn">
         <img src={ guiltyGear } alt="Guilty Gear -STRIVE- by ArcSystemWorks" class="left-image"/>
     </div>
-    <section>
+    <section class="info-section">
         <h1>CLUB OFFICERS</h1>
         <p>Learn about the team that keeps the club ticking!</p>
         <p><strong>We're also looking for officers.</strong> Read more about open positions, eligibility requirements, and the application process below.</p>
@@ -59,7 +59,7 @@
     <div class="picture-collumn">
         <img src={ profitPlayground } alt="TT Profit Playground by unknown" class="right-image" style="object-position: 10%;"/>
     </div>
-    <section>
+    <section class="info-section">
         <h1>SUPPORT US</h1>
         <p>
             Support our efforts in making game development more accessible for students at the University of Houston. Anything and everything helps.

@@ -1,3 +1,5 @@
+/* Global Stylesheet */
+
 :root {
     color-scheme: light dark;
     
@@ -30,8 +32,7 @@ main ul {
     padding-left: 5vw;
     padding-right: 5vw;
 }
-
-section button {
+.info-section button {
     margin-top: 20px;
 }
 

@@ -1,5 +1,5 @@
 <script lang="ts">
-    import Officer from '$lib/Officer.svelte';
+    import Officer from './Officer.svelte';
     import { officers } from './data.js'
 </script>
 
