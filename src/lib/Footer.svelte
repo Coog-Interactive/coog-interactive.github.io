@@ -7,7 +7,7 @@
     <section class="desktop-only" id="navigate">
         <h3>NAVIGATE</h3>
         <a href="/">Home</a>
-        <a href="/club">Club</a> <!-- TODO -->
+        <a href="/club">Club</a>
         <a>Games</a> <!-- TODO; These pages don't exist yet -->
         <a>Studio</a> <!-- TODO -->
         <a>Join</a> <!-- TODO -->
