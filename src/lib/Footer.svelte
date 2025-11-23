@@ -6,8 +6,8 @@
     <img class="desktop-only" src={ logo } alt="Coog Interactive Logo"/>
     <section class="desktop-only" id="navigate">
         <h3>NAVIGATE</h3>
-        <a>Home</a> <!-- TODO -->
-        <a>About</a> <!-- TODO -->
+        <a href="/">Home</a>
+        <a href="/club">Club</a> <!-- TODO -->
         <a>Games</a> <!-- TODO; These pages don't exist yet -->
         <a>Studio</a> <!-- TODO -->
         <a>Join</a> <!-- TODO -->
