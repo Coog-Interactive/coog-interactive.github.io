@@ -34,7 +34,7 @@
     </section>
 </div>
 
-<h1>CLUB OFFICERS</h1>
+<h1 id="meet-the-team">CLUB OFFICERS</h1>
 
 <div id="officers">
 {#each officers as officer}

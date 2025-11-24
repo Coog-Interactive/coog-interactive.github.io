@@ -1,5 +1,6 @@
 import logo from '$lib/assets/logo.png'
 import ibrahim from '$lib/assets/IMG_8955.jpg'
+import treasurer from '$lib/assets/KimProfile.jpg'
 import garret from '$lib/assets/garret.jpg';
 
 // Eventually this will be fetched from a server.
@@ -9,7 +10,7 @@ export const officers = [
         img: ibrahim,
         position: "President",
         name: "Ibrahim Faisal",
-        desc: "Sup y'all. I'm the president of this here esteemed organization. I like to read, sketch, and play games in my free time. Couple of my favorites are elden ring, cyberpunk and god of war. I hope y'all fun and enjoy your time here.",
+        desc: "Sup y'all. I'm the president of this here esteemed organization. I like to read, sketch, and play games in my free time. Couple of my favorites are elden ring, cyberpunk and god of war. I hope have y'all fun and enjoy your time here.",
     },
     {
         img: logo,
@@ -17,7 +18,7 @@ export const officers = [
         name: "Zachary Ellerbrock",
     },
     {
-        img: logo,
+        img: treasurer,
         position: "Treasurer",
         name: "Kimberly Bellah",
     },
@@ -25,7 +26,7 @@ export const officers = [
         img: garret,
         position: "Studio Director",
         name: "Garrett Ward",
-        desc: "Game designer and second-year graduate student specializing in Learning, Design, and Technology at the University of Houston. His professional interests include UI/UX design, gameplay design, systems design, and project management. He enjoys surfing, learning new things, playing games and music, and practicing permaculture design.",
+        desc: "Good day traveler! My name is Garrett Ward and I am Coog Interactive’s Studio Director. I currently work as an educational game designer and am a second-year graduate student specializing in Learning, Design, and Technology. My professional interests include UI/UX design, gameplay design, systems design, and project management. In my free time, I enjoy surfing, learning new things, playing  tabletop and digital games of various genres, dabbling in music on several instruments, and practicing permaculture design.",
     },
     {
         img: logo,

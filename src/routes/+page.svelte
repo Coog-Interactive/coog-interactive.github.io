@@ -28,7 +28,9 @@
             <li>Writers</li>
             <li><strong>YOU!</strong></li>
         </ul>
-        <button>JOIN THE DISCORD</button>
+        <a href="https://discord.gg/ZBwh4YgxRA" target="_blank">
+            <button>JOIN THE DISCORD</button>
+        </a>
     </section>
 </div>
 <div class="reverse row">
@@ -49,10 +51,10 @@
     </div>
     <section class="info-section">
         <h1>CLUB OFFICERS</h1>
-        <p>Learn about the team that keeps the club ticking!</p>
-        <p><strong>We're also looking for officers.</strong> Read more about open positions, eligibility requirements, and the application process below.</p>
-        <button>MEET THE TEAM</button>
-        <button>BECOME AN OFFICER</button>
+        <p>Learn about the team that keeps the club ticking! Officer openings are also disclosed below.</p>
+        <a href="/club#meet-the-team">
+            <button>MEET THE TEAM</button>
+        </a>
     </section>
 </div>
 <div class="reverse row">
