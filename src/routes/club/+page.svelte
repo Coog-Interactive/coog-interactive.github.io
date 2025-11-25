@@ -1,6 +1,7 @@
 <script lang="ts">
     import Officer from './Officer.svelte';
-    import { officers } from './data.js'
+
+    let { data } = $props();
 </script>
 
 <h1>CLUB MEMBERSHIPS</h1>
@@ -37,7 +38,7 @@
 <h1 id="meet-the-team">CLUB OFFICERS</h1>
 
 <div id="officers">
-{#each officers as officer}
+{#each data.officers as officer}
     <Officer {...officer} />
 {/each}
 </div>

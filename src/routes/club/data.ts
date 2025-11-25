@@ -21,6 +21,7 @@ export const officers = [
         img: treasurer,
         position: "Treasurer",
         name: "Kimberly Bellah",
+        desc: "Hey there, I’m Kimberly! I am currently a Masters student in Technology Project Management with a background in Psychology, Fundraising, and Leadership. As Coog Interactive’s Treasurer, I keep our finances steady and transparent—tracking budgets, managing funds, and making sure our projects have what they need to thrive. I’m passionate about holistic game design and the teamwork it takes to build experiences with lasting impact. I’m especially into games that explore the human experience and introspection, with  Sound Self, a therapeutic VR game, being a standout for me.",
     },
     {
         img: garret,
@@ -31,7 +32,6 @@ export const officers = [
     {
         img: logo,
         position: "Workshops Director",
-        name: "Ryan Stephens",
     },
     {
         img: logo,
