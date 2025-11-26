@@ -1,6 +1,5 @@
 <script lang="ts">
     import Officer from './Officer.svelte';
-
     let { data } = $props();
 </script>
 
@@ -74,7 +73,8 @@
     #officers {
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(500px, 2fr));
-        row-gap: 50px; 
+        row-gap: 50px;
+        column-gap: 50px;
     }
 
     /* Mobile Layout */
