@@ -8,7 +8,7 @@
         <h3>NAVIGATE</h3>
         <a href="/">Home</a>
         <a href="/club">Club</a>
-        <a>Games</a> <!-- TODO; These pages don't exist yet -->
+        <a href="/games">Games</a>
         <a>Studio</a> <!-- TODO -->
         <a>Join</a> <!-- TODO -->
     </section>

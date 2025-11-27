@@ -36,7 +36,7 @@
     {#if navbarExpanded || (browser && window.innerWidth > 800)}
         <a class="expand" href="/">Home</a> <!-- TODO -->
         <a class="expand" href="/club">Club</a> <!-- TODO -->
-        <a class="expand">Games</a> <!-- TODO -->
+        <a class="expand" href="/games">Games</a> <!-- TODO -->
         <a class="expand">Studio</a> <!-- TODO -->
         <a class="expand">Join</a> <!-- TODO -->
     {/if}
