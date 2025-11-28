@@ -17,6 +17,7 @@ export const officers = [
         img: logo,
         position: "Vice President",
         name: "Zachary Ellerbrock",
+        desc: "Hi y'all, Im the Vice President of Coog Interactive. Im a third-year computer science major with a big passion for game dev. I code primarily in Unity and my favorite games are Minecraft, Terraria, and Tetris."
     },
     {
         img: treasurer,

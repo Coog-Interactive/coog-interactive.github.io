@@ -26,7 +26,7 @@
         <ul>
             <li>Participate in official, studio projects</li>
             <li>Propose game ideas and lead teams.</li>
-            <li>Work in teams of 8-10 people.</li>
+            <li>Work in teams of 3-5 people.</li>
             <li>Publish games to Steam and Mobile Appstores.</li>
             <li>Learn how to utilize industry tools.</li>
         </ul>
