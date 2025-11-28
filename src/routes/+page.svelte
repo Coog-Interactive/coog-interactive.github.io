@@ -72,7 +72,9 @@
 <div style="text-align: center;">
     <h1>MEMBER SHOWCASE</h1>
     <p>Video coming soon...</p>
-    <button class="center-button">CHECK OUT THE GAMES</button>
+    <a href="/games">
+        <button class="center-button">CHECK OUT THE GAMES</button>
+    </a>
 </div>
 
 <style>
