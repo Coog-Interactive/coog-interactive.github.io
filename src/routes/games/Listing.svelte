@@ -29,8 +29,6 @@
         cursor: pointer;
         transition: 0.5s;
         color: inherit;
-
-        width: 25vw;
         justify-self: center;
     }
     #game:hover {
