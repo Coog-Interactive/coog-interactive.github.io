@@ -21,13 +21,17 @@
     <div id="itch" class="platform">
         <img class="icon" src={ itch_icon } alt="itch.io icon" style=""/>
         <h2>Check out our games on <img src={ itch } alt="itch.io logo"/></h2>
-        <button>GO!</button>
+        <a href="https://coog-interactive.itch.io/" target="_blank">
+            <button>GO!</button>
+        </a>
     </div>
     
     <div id="gamejolt" class="platform">
         <img class="icon" src={ gamejolt_icon } alt="GameJolt Icon" />
         <h2>Check out our games on <img src={ gamejolt } alt="GameJolt logo"/></h2>
-        <button>GO!</button>
+        <a href="https://gamejolt.com/@CoogInteractive" target="_blank">
+            <button>GO!</button>
+        </a>
     </div>
 </div>
 
@@ -81,6 +85,9 @@
     .platform h2 img {
         vertical-align: middle;
         height: 2rem;
+    }
+    .platform a {
+        width: 100%;
     }
 
     #itch {
