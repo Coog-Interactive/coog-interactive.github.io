@@ -1,27 +1,18 @@
-import ucb from './assets/games/ucb.webp';
-import vc from './assets/games/vc.webp';
-import axl from './assets/games/axl.webp';
-
 export const games = [
     {
-        header: ucb,
-        name: "Unreal CubeBlaster",
-        authors: ["Luke Gobin", "John Doe", "Jane Doe"],
-        desc: "Explode cube with your exceptionally weird rifle or ride them, but at all costs, don't get knocked off!",
-        href: "https://gamejolt.com/games/CubeBlaster/469015",
-    },
-    {
-        header: vc,
-        name: "Visual Code C#",
-        authors: ["Luke Gobin", "John Doe", "Jane Doe"],
-        desc: "Make simple C# scripts visually.",
-        href: "https://gamejolt.com/games/VisualCode/545397",
-    },
-    {
-        header: axl,
-        name: "Asteroid XL",
-        authors: ["Luke Gobin", "John Doe", "Jane Doe"],
-        desc: "A game where you shoot asteroids till you can't no more.",
-        href: "https://gamejolt.com/games/Asteroid/456258",
+        header: "https://img.itch.zone/aW1nLzI0NDE3MTg2LnBuZw==/347x500/5ou8y%2F.png",
+        name: "Tower of Judgement",
+        authors: [
+            "Ricardo Morales Vargas",
+            "Justin Plamo",
+            "Thien Tran",
+            "Viet Nguyen",
+            "Zach Grant",
+            "Sultan Sadiq",
+            "Arturo Murga",
+            "Shaheer Ismail",
+        ],
+        desc: "2D top-down action-adventure game with hack-and-slash combat and retro 16-bit pixel art built in Unity for PC.",
+        href: "https://goldengoosegames.itch.io/tower-of-judgement",
     },
 ]

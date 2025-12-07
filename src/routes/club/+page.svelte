@@ -30,7 +30,7 @@
             <li>Publish games to Steam and Mobile Appstores.</li>
             <li>Learn how to utilize industry tools.</li>
         </ul>
-        <button>PURCHASE</button>
+        <button>NOT AVAILABLE YET :(</button>
     </section>
 </div>
 

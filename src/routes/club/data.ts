@@ -37,11 +37,6 @@ export const officers = [
     },
     {
         img: logo,
-        position: "Faculty Advisor",
-        name: "Dr. Chang Yun",
-    },
-    {
-        img: logo,
         position: "Executive Advisor",
         name: "Sammy Tawakkol",
     },
