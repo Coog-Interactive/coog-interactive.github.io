@@ -37,8 +37,8 @@
         <a class="expand" href="/">Home</a> <!-- TODO -->
         <a class="expand" href="/club">Club</a> <!-- TODO -->
         <a class="expand" href="/games">Games</a> <!-- TODO -->
-        <a class="expand">Studio</a> <!-- TODO -->
-        <a class="expand">Join</a> <!-- TODO -->
+        <a class="expand" href="/studio">Studio</a> <!-- TODO -->
+        <a class="expand" href="https://discord.gg/ZBwh4YgxRA" target="_blank">Join</a> <!-- TODO -->
     {/if}
 </nav>
 

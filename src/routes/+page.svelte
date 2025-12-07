@@ -42,7 +42,9 @@
         <p>
             We operate a student-led game studio branch within the organization, producing official, collaborative games credited to contributors, with proceeds used to further the progress of game development programs at UH and the opportunities it provides to students interested in game development.
         </p>
-        <button>LEARN MORE</button>
+        <a href="/studio">
+            <button>LEARN MORE</button>
+        </a>
     </section>
 </div>
 <div class="row">
@@ -84,7 +86,6 @@
         justify-content: center;
 
         height: 100%;
-        width: 45vw;
         padding-left: 5vw;
         padding-right: 5vw;
     }

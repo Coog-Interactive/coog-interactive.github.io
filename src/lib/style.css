@@ -97,6 +97,9 @@ button:hover {
         max-width: 100%;
         height: auto;
     }
+    .info-section {
+        width: 100%;
+    }
 }
 
 /* Desktop Layout */
