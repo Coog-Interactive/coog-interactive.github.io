@@ -54,7 +54,7 @@
     #see-more {
         display: grid;
         width: 100%;
-        grid-template-columns: repeat(auto-fit, minmax(500px, 2fr)); /* Make sure to consider changing auto-fit back to auto-fill if adding any more platforms here. */
+        grid-template-columns: repeat(auto-fit, minmax(300px, 2fr)); /* Make sure to consider changing auto-fit back to auto-fill if adding any more platforms here. */
         row-gap: 30px; /* Row gap for mobile. */
     }
 
