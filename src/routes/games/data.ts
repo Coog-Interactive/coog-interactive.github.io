@@ -35,7 +35,7 @@ export const games = [
         header: "https://img.itch.zone/aW1nLzI0NDU2MjQ4LnBuZw==/347x500/%2Fw0xoq.png",
         name: "Wild Pete",
         authors: [
-            "Joseph Giap (me!)",
+            "Joseph Giap",
             "Emma Nguyen",
             "Cody Luc",
             "Johann Perez",
