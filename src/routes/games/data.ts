@@ -44,6 +44,22 @@ export const games = [
             "Yousif Saieb",
         ],
         desc: "A pixel-art side scrolling combat game, where you must escape and fight through the prison to escape!",
-        href: "https://josephgiap123.itch.io/wild-pete"
+        href: "https://josephgiap123.itch.io/wild-pete",
+    },
+    {
+        header: "https://img.itch.zone/aW1nLzI0NDc5NTE2LnBuZw==/original/Z3%2FeBI.png",
+        name: "Luminescence",
+        authors: [
+            "Kyle Lumbo",
+            "Nathaniel McAndrews",
+            "Paulo Cataquis",
+            "Tadiwa Kabayadondo",
+            "Zachary Ellerbrock",
+            "Joseph Guzman",
+            "Sergio Ramirez",
+            "Tran Minh Tuong",
+        ],
+        desc: "Venture into the shadowed world of Lumen. Battle nightmarish creatures and survive the darkness, as you descend deeper into the abyss, searching to revive the last source of luminescence, in this epic 2D top down action adventure RPG.",
+        href: "https://radiantstudios.itch.io/luminescence",
     }
 ]
