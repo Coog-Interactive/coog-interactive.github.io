@@ -68,11 +68,12 @@
     }
     ul li {
         margin-bottom: 6px;
+        font-size: medium;
     }
 
     #officers {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(500px, 2fr));
+        grid-template-columns: repeat(auto-fill, minmax(300px, 2fr));
         row-gap: 50px;
         column-gap: 50px;
     }
