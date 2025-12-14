@@ -46,7 +46,7 @@
 
     #featured {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(350px, 3fr));
+        grid-template-columns: repeat(auto-fit, minmax(300px, 3fr));
         column-gap: 50px;
         row-gap: 30px;
     }
@@ -56,10 +56,6 @@
         width: 100%;
         grid-template-columns: repeat(auto-fit, minmax(300px, 2fr)); /* Make sure to consider changing auto-fit back to auto-fill if adding any more platforms here. */
         row-gap: 30px; /* Row gap for mobile. */
-    }
-
-    #featured {
-        grid-column: 1 / 3;
     }
     
     .platform {
