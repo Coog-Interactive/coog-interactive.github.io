@@ -61,5 +61,15 @@ export const games = [
         ],
         desc: "Venture into the shadowed world of Lumen. Battle nightmarish creatures and survive the darkness, as you descend deeper into the abyss, searching to revive the last source of luminescence, in this epic 2D top down action adventure RPG.",
         href: "https://radiantstudios.itch.io/luminescence",
-    }
+    },
+    {
+        header: "https://img.itch.zone/aW1nLzI0NjkyMDEyLnBuZw==/315x250%23c/0cDY%2Fu.png",
+        name: "Rhythm Bells",
+        href: "https://agwar.itch.io/rhythm-bells"
+    },
+    {
+        header: "https://img.itch.zone/aW1nLzI0NzAyNTAzLnBuZw==/315x250%23c/ycuLoF.png",
+        name: "Stealing Christmas",
+        href: "https://junior4144.itch.io/stealing-christmas",
+    },
 ]
