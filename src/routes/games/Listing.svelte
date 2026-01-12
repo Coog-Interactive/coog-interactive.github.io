@@ -17,7 +17,8 @@
         transition: 0.5s;
         justify-self: center;
         width: 100%;
-        max-height: 174px;
+        min-height: 250px;
+        min-width: 330px;
     }
     #game:hover {
         scale: 1.05;

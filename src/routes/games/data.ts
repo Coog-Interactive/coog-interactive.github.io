@@ -1,3 +1,5 @@
+import ax from './assets/Ax_Titlecard.png'
+
 export const games = [
     {
         header: "https://img.itch.zone/aW1nLzI0NDE3MTg2LnBuZw==/347x500/5ou8y%2F.png",
@@ -71,5 +73,10 @@ export const games = [
         header: "https://img.itch.zone/aW1nLzI0NzAyNTAzLnBuZw==/315x250%23c/ycuLoF.png",
         name: "Stealing Christmas",
         href: "https://junior4144.itch.io/stealing-christmas",
+    },
+    {
+        header: ax,
+        name: "Axolotl Adventure",
+        href: "https://worlds.viverse.com/vs4jzMX",
     },
 ]
