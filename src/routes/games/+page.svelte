@@ -9,6 +9,13 @@
     let { data } = $props();
 </script>
 
+<svelte:head>
+    <title>Games</title>
+    <meta
+        name="description"
+        content="Check out Coog Interactive's featured games."/>
+</svelte:head>
+
 <h1>FEATURED</h1>
 <div id="featured">
     {#each data.games as game}

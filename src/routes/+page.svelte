@@ -9,6 +9,14 @@
     }
 </script>
 
+<svelte:head>
+    <title>Coog Interactive</title>
+    <meta
+        name="description"
+        content="The premiere game development organization at 
+        the University of Houston."/>
+</svelte:head>
+
 <div class="row">
     <div class="picture-collumn">
         <img src={ section1 } alt="Luminescence by RadiantStudios" class="left-image"/>

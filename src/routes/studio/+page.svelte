@@ -4,6 +4,15 @@
     import tj from './assets/tj.png';
 </script>
 
+<svelte:head>
+    <title>Studio</title>
+    <meta
+        name="description"
+        content="Coog Interactive's studio is a true to life, studio-style 
+        production experience that most programs seldom offer. Ship titles
+        of professional quality"/>
+</svelte:head>
+
 <div class="row">
     <div class="picture-collumn">
         <img src={ mgs3 } alt="Metal Gear Solid Delta by KONAMI" class="left-image"/>

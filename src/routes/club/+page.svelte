@@ -3,6 +3,14 @@
     let { data } = $props();
 </script>
 
+<svelte:head>
+    <title>Club</title>
+    <meta
+        name="description"
+        content="Learn how to join Coog Interactive and see 
+        its current roster of officers."/>
+</svelte:head>
+
 <h1>CLUB MEMBERSHIPS</h1>
 
 <div id="memberships">
