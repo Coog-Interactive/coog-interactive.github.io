@@ -23,7 +23,7 @@
         <h3>MISC</h3>
         <a target="_blank" href="https://getinvolved.uh.edu/organization/cooginteractive/documents/view/2505522">Constitution</a>
     </section>
-    <p class="desktop-only" id="credit">Made with ❤️ by Luke Gobin</p>
+    <p class="desktop-only" id="credit">Made with ❤️ by <a href="https://mortobato.org" style="color: white;">Luke Gobin</a></p>
 </footer>
 
 <style>
