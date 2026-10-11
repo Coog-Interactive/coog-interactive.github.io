@@ -7,6 +7,11 @@ import marketing from './img/marketing.png'
 import studioDirector from './img/studioDirector.png'
 import corpAbdullah from './img/corpAbdullah.jpg'
 import webmaster from './img/webmaster.jpg'
+import treasurer from './img/treasurer.jpg'
+import eventCoord from './img/eventCoord.png'
+import president from './img/president.jpg'
+import facultyAdvisor from './img/facultyAdvisor.jpg'
+import vicePresident from './img/vicePresident.jpg'
 
 // Eventually this will be fetched from a server.
 
@@ -14,17 +19,44 @@ export const officers = [
     {
         position: "President",
         name: "Ibrahim Faisal",
-        desc: "Lorem ipsum dolor sit amet",
+        img: president,
+        desc: `
+            Howdy, y'all. Ibrahim is the president of this here esteemed organization.
+            Outside of that, he likes to read, sketch, and play games, and a couple of his
+            favorites are Elden Ring, Cyberpunk, and God of War. He hopes everyone has fun
+            and enjoys their time here.
+        `,
     },
     {
         position: "Vice President",
         name: "Zachary Ellerbrock",
-        desc: "Lorem ipsum dolor sit amet",
+	img: vicePresident,
+        desc: `
+            Zachary Ellerbrock is the Vice President of Coog Interactive and a
+            fourth-year Computer Science major with a big passion for game development.
+            He primarily codes in Unity, and some of his favorite things to create are
+            gameplay systems and entity AI, with some of his favorite projects including
+            top-down 2D RPG bosses and a remake of Tetris. One of the things he really enjoys
+            about video games is how story and music can create different feelings and
+            experiences for players, and he is particularly interested in learning more about
+            that aspect of game development. Some of his favorite games are Minecraft, osu!,
+            and Tetris.
+        `,
     },
     {
         position: "Treasurer",
         name: "Kimberly Bellah",
-        desc: "Lorem ipsum dolor sit amet",
+        img: treasurer,
+        desc: `
+            Kimberly is a Master’s student in Technology Project Management. With a
+            background in education, leadership, and nonprofit work, she brings a
+            human-centered and organizational perspective to technology and interactive
+            experiences. She is also a Research Assistant with the Coog AR Lab, where
+            she studies AR/VR/XR and explores the intersection of immersive technology,
+            entrepreneurship, and therapeutic applications. She is passionate about
+            bringing together creativity, technology, and collaborative project
+            leadership to help turn innovative ideas into meaningful interactive experiences. 
+        `,
     },
     {
         position: "Studio Director",
@@ -90,7 +122,14 @@ export const officers = [
     {
         position: "Event Coordinator",
         name: "O’rion Bailey",
-        desc: "Lorem ipsum dolor sit amet"
+        img: eventCoord,
+        desc: `
+            O’rion is a computer science major with a minor in mathematics, and is Coog
+            Interactive’s event coordinator. In his free time he plays D&D, which he’s been
+            a DM for going on 8 years now. His favorite games are turned based creature
+            capture RPGs like World of Final Fantasy, Pokemon, and Cassette Beasts, however
+            his favorite game of all time is Outer Wilds.
+        `,
     },
     {
         position: "Webmaster",
@@ -107,21 +146,18 @@ export const officers = [
         name: "Garrett Ward",
         img: industryAdvisor,
         desc: `
-            Garrett’s interest in the arts, education, storytelling, technology, and
-            the natural world drive him to create engaging experiences that have a positive
-            impact on people’s lives. He is an educational game designer currently working
-            in virtual production for Houston’s largest virtual production studio–Captiv Studios–
-            and is the Chief Product Officer of Origo42, where he facilitates software development
-            and hardware integrations. He recently earned his M.Ed. in Curriculum and Instruction
-            with a specialization in Learning, Design, and Technology from the University of Houston,
-            during which time he worked as a graduate research assistant for the CougAR Lab, and
-            contributed to the founding of Coog Interactive by serving as its Studio Director and
-            establishing its nonprofit status.
+            Garrett is an educational game designer currently working in virtual production
+            for Houston’s largest virtual production studio–Captiv Studios–and is the Chief
+            Product Officer of Origo42, where he facilitates software development and hardware
+            integrations. He earned his M.Ed. in Learning, Design, and Technology from the University
+            of Houston, where he worked for the CougAR Lab, and contributed to the founding of Coog
+            Interactive by serving as its Studio Director and establishing its nonprofit status.
         `,
     },
     {
         position: "Faculty Advisor",
         name: "Dr. Chang Yun",
-        desc: "Lorem ipsum dolor sit amet",
+        img: facultyAdvisor,
+        desc: "Dr. Chang Yun is Coog Interactive's faculty advisor.",
     },
 ]
