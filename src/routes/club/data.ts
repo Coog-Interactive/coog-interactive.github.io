@@ -64,9 +64,8 @@ export const officers = [
         img: studioDirector,
         desc: `
             Second studio director for Coog Interactive; a programmer, illustrator,
-            3D modeler, animator, music producer. He is a freshman majoring in
-            computer science and will be the next director of CodeRed Hackathon.
-            He enjoys gaming, creating things, and talking to new people.
+            3D modeler, animator, and music producer. He is a freshman majoring in
+            computer science and enjoys gaming, creating things, and talking to new people.
         `,
     },
     {
